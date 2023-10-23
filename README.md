@@ -1,4 +1,4 @@
-# Project README: MOES Universal Remote Control (UFO-R11) Commands for Vulcano Air Conditioner (Line Cool)
+# Commands for Vulcano Air Conditioner (Line Cool) through MOES Universal Remote Control (UFO-R11) 
 
 Welcome to the Vulcano AC Line Cool IR project! This repository contains a collection of commands for controlling your Vulcano Air Conditioner from the Line Cool series using the MOES UFO-R11 universal remote control. Please note that this project is a work in progress, and we encourage contributions from the community to expand its capabilities.
 
