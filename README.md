@@ -61,6 +61,14 @@ We welcome contributions from the community to improve this project. If you have
 7. **Create a Pull Request:**
    Go to your fork on GitHub, and click the "New Pull Request" button. Explain your changes and submit the pull request.
 
+## How I'm using it
+
+I've incorporated these IR commands into my Home Assistant setup, allowing me to transmit them using an IR blaster. 
+To enable this functionality, I had to introduce specific ([quirks](https://github.com/zigpy/zha-device-handlers/issues/1687#issuecomment-1424357574)] to facilitate the learning and transmission of these commands. 
+With these quirks in place, I can now efficiently teach my IR blaster these codes and issue them directly from my Home Assistant environment.
+
+Kudos to @ferehcarb for the development of the quirk.
+
 ## Contact
 
 If you have questions or need assistance, feel free to contact the project maintainers through GitHub issues.
