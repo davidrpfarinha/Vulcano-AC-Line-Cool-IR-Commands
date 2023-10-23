@@ -23,7 +23,7 @@ To use the MOES Universal Remote Control (UFO-R11) commands for your Vulcano Lin
    ```
 
 3. **Review the Commands:**
-   Browse the repository to find the list of available commands in the [AC_Vulcano_IR_Commands.txt]([url](https://github.com/davidrpfarinha/Vulcano-AC-Line-Cool-IR-Commands)) file. This file provides a detailed list of commands and their functions.
+   Browse the repository to find the list of available commands in the [[AC Vulcano_IR_Commands](https://github.com/davidrpfarinha/Vulcano-AC-Line-Cool-IR-Commands/blob/main/AC_Vulcano_IR_Commands.txt)] file. This file provides a detailed list of commands and their functions.
 
 4. **Use the Commands:**
    Use the commands in your MOES UFO-R11 remote control to control your Vulcano Line Cool Air Conditioner.
@@ -60,10 +60,6 @@ We welcome contributions from the community to improve this project. If you have
 
 7. **Create a Pull Request:**
    Go to your fork on GitHub, and click the "New Pull Request" button. Explain your changes and submit the pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the code, but please provide attribution and include the license text when doing so.
 
 ## Contact
 
