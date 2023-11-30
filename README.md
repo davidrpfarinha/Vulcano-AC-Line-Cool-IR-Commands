@@ -71,9 +71,9 @@ With these quirks in place, I can now efficiently teach my IR blaster these code
 
 I've installed the [SmartIR](https://github.com/smartHomeHub/SmartIR/) component, and created a new file called 4209.json to host the commands.
 Then, I customized the SmartIR integration to be able to call the services exposed by the abovementioned quirks.
-With this, I now have an climate device that can be used natively.
+With this, I now have an climate entity that can be used natively.
 
-Kudos to [@ferehcarb](https://github.com/ferehcarb) for the development of the quirk.
+Kudos to [@ferehcarb](https://github.com/ferehcarb) for the development of the quirk, and to [@smartHomeHub](https://github.com/smartHomeHub/SmartIR) for their custom integration.
 
 ## Contact
 
