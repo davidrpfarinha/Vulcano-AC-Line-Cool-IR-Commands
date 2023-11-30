@@ -23,7 +23,7 @@ To use the MOES Universal Remote Control (UFO-R11) commands for your Vulcano Lin
    ```
 
 3. **Review the Commands:**
-   Browse the repository to find the list of available commands in the [AC Vulcano IR Commands](https://github.com/davidrpfarinha/Vulcano-AC-Line-Cool-IR-Commands/blob/main/AC_Vulcano_IR_Commands.txt) file. This file provides a detailed list of commands and their functions.
+   Browse the repository to find the list of available commands in the [AC Vulcano IR Commands](https://github.com/davidrpfarinha/Vulcano-AC-Line-Cool-IR-Commands/blob/main/4209.json) file. This file provides a detailed list of commands and their functions.
 
 4. **Use the Commands:**
    Use the commands in your MOES UFO-R11 remote control to control your Vulcano Line Cool Air Conditioner.
@@ -66,6 +66,12 @@ We welcome contributions from the community to improve this project. If you have
 I've incorporated these IR commands into my Home Assistant setup, allowing me to transmit them using an IR blaster. 
 To enable this functionality, I had to introduce specific [quirks](https://github.com/zigpy/zha-device-handlers/issues/1687#issuecomment-1424357574) to facilitate the learning and transmission of these commands. 
 With these quirks in place, I can now efficiently teach my IR blaster these codes and issue them directly from my Home Assistant environment.
+
+## Update
+
+I've installed the [SmartIR](https://github.com/smartHomeHub/SmartIR/) component, and created a new file called 4209.json to host the commands.
+Then, I customized the SmartIR integration to be able to call the services exposed by the abovementioned quirks.
+With this, I now have an climate device that can be used natively.
 
 Kudos to [@ferehcarb](https://github.com/ferehcarb) for the development of the quirk.
 
