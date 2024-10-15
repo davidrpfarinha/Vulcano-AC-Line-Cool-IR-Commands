@@ -1,3 +1,15 @@
+# Disclaimer
+
+Please note that this repository is no longer being actively maintained or updated. 
+After further evaluation, I found a better solution to my needs by using the [SMARTLIGHT SLWF-01pro](https://smartlight.me/smart-home-devices/wifi-devices/wifi-dongle-air-conditioners-midea-idea-electrolux-for-home-assistant). 
+This product offers the functionality I require and aligns more closely with my goals for future projects.
+
+Feel free to explore the code and use it as you see fit, but be aware that no further development or support will be provided.
+
+Thank you for your understanding, and if you need any help please feel free to reach out!
+
+
+
 # Commands for Vulcano Air Conditioner (Line Cool) through MOES Universal Remote Control (UFO-R11) 
 
 Welcome to the Vulcano AC Line Cool IR project! This repository contains a collection of commands for controlling your Vulcano Air Conditioner from the Line Cool series using the MOES UFO-R11 universal remote control. Please note that this project is a work in progress, and we encourage contributions from the community to expand its capabilities.
